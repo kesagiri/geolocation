@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "CT Consulting",
+            "Location__Latitude__s": 55.721974,
+            "Location__Longitude__s": 37.638629
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Серпуховская",
+            "Location__Latitude__s": 55.726854,
+            "Location__Longitude__s": 37.625742
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Павелецкая",
+            "Location__Latitude__s": 55.731004,
+            "Location__Longitude__s": 37.636357
+        }
+    ]
+}
